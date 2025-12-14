@@ -1,0 +1,5 @@
+apiVersion:  v2
+name: mongodb # chart_name
+version: 1.0.0 # chart_version
+description: mongodb installation
+appVersion: v1 # this is application version.
